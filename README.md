@@ -1,5 +1,7 @@
 # Cryptocurrency & NFT smart contract
 
+We are using [Remix IDE](https://remix.ethereum.org/) for writing the smart contracts.
+
 1. install remixd
 
 	```shell
